@@ -1,6 +1,6 @@
 {
   "name": "react-iphone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Made with create-react-library",
   "author": "@juliusdejon",
   "license": "MIT",
@@ -52,6 +52,7 @@
     "react-scripts": "^3.4.1"
   },
   "files": [
-    "dist"
+    "dist",
+    "dist/*.css"
   ]
 }
