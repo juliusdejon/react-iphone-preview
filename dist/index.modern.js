@@ -1,13 +1,13 @@
 import { createElement } from 'react';
 
-var Iphone = function Iphone() {
-  var container = {
+const Iphone = () => {
+  const container = {
     fontFamily: 'Open Sans',
     width: '240px',
     height: '500px',
     background: '#f4f6fc'
   };
-  var iphoneCase = {
+  const iphoneCase = {
     overflow: 'hidden',
     height: '100%',
     width: '100%',
