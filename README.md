@@ -12,21 +12,22 @@ npm install --save react-iphone
 
 ## Usage
 
-```index.css
-@import '~react-iphone/dist/index.css';
-```
-
 ```tsx
 import React, { Component } from 'react'
 
 import { Iphone } from 'react-iphone'
-import './index.css'
 
 class Example extends Component {
   render() {
     return <Iphone />
   }
 }
+```
+
+And import style manually
+
+```
+@import '~react-iphone/dist/index.css';
 ```
 
 ## API
