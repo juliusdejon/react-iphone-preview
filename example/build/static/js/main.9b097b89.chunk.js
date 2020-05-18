@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-iphone-example"]=this["webpackJsonpreact-iphone-example"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);t(5);var a=t(0),r=t.n(a),c=t(2),o=t.n(c),p=t(3),u=function(){return r.a.createElement(p.a,null)};o.a.render(r.a.createElement(u,null),document.getElementById("root"))},4:function(e,n,t){e.exports=t(10)},5:function(e,n,t){}},[[4,1,2]]]);
+//# sourceMappingURL=main.9b097b89.chunk.js.map
