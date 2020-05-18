@@ -15,12 +15,11 @@ npm install --save react-iphone
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-iphone'
-import 'react-iphone/dist/index.css'
+import { Iphone } from 'react-iphone'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Iphone />
   }
 }
 ```
