@@ -29,6 +29,14 @@ class Example extends Component {
 }
 ```
 
+## API
+
+| Property        | Description             | Type             | Default |
+| --------------- | ----------------------- | ---------------- | ------- |
+| height          | Height of the phone     | string \| number | -       |
+| width           | Width of the phone      | string \| number | -       |
+| backgroundStyle | Background of the phone | object           | -       |
+
 ## License
 
 MIT © [@juliusdejon](https://github.com/@juliusdejon)
