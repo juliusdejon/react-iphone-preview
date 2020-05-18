@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-iphone/static/css/main.f77eb915.chunk.css",
-    "main.js": "/react-iphone/static/js/main.ec50b46a.chunk.js",
-    "main.js.map": "/react-iphone/static/js/main.ec50b46a.chunk.js.map",
+    "main.css": "/react-iphone/static/css/main.4afdb98e.chunk.css",
+    "main.js": "/react-iphone/static/js/main.9b097b89.chunk.js",
+    "main.js.map": "/react-iphone/static/js/main.9b097b89.chunk.js.map",
     "runtime-main.js": "/react-iphone/static/js/runtime-main.debd3022.js",
     "runtime-main.js.map": "/react-iphone/static/js/runtime-main.debd3022.js.map",
     "static/css/2.552b86f8.chunk.css": "/react-iphone/static/css/2.552b86f8.chunk.css",
-    "static/js/2.bf9b8e9d.chunk.js": "/react-iphone/static/js/2.bf9b8e9d.chunk.js",
-    "static/js/2.bf9b8e9d.chunk.js.map": "/react-iphone/static/js/2.bf9b8e9d.chunk.js.map",
+    "static/js/2.bf8e9377.chunk.js": "/react-iphone/static/js/2.bf8e9377.chunk.js",
+    "static/js/2.bf8e9377.chunk.js.map": "/react-iphone/static/js/2.bf8e9377.chunk.js.map",
     "index.html": "/react-iphone/index.html",
-    "precache-manifest.f3c59e575b977c46f75976657d32c3ec.js": "/react-iphone/precache-manifest.f3c59e575b977c46f75976657d32c3ec.js",
+    "precache-manifest.ee202606062caea91ebff05ef1c92462.js": "/react-iphone/precache-manifest.ee202606062caea91ebff05ef1c92462.js",
     "service-worker.js": "/react-iphone/service-worker.js",
     "static/css/2.552b86f8.chunk.css.map": "/react-iphone/static/css/2.552b86f8.chunk.css.map",
-    "static/css/main.f77eb915.chunk.css.map": "/react-iphone/static/css/main.f77eb915.chunk.css.map",
-    "static/js/2.bf9b8e9d.chunk.js.LICENSE.txt": "/react-iphone/static/js/2.bf9b8e9d.chunk.js.LICENSE.txt"
+    "static/css/main.4afdb98e.chunk.css.map": "/react-iphone/static/css/main.4afdb98e.chunk.css.map",
+    "static/js/2.bf8e9377.chunk.js.LICENSE.txt": "/react-iphone/static/js/2.bf8e9377.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.debd3022.js",
     "static/css/2.552b86f8.chunk.css",
-    "static/js/2.bf9b8e9d.chunk.js",
-    "static/css/main.f77eb915.chunk.css",
-    "static/js/main.ec50b46a.chunk.js"
+    "static/js/2.bf8e9377.chunk.js",
+    "static/css/main.4afdb98e.chunk.css",
+    "static/js/main.9b097b89.chunk.js"
   ]
 }
