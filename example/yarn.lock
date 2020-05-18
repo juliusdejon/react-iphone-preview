@@ -8423,9 +8423,10 @@ react-error-overlay@^6.0.7:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.7.tgz#1dcfb459ab671d53f660a991513cb2f0a0553108"
   integrity sha512-TAv1KJFh3RhqxNvhzxj6LeT5NWklP6rDr2a0jaTfsZ5wSZWHOGeqQyejUp3xxLfPt2UpyJEcVQB/zyPcmonNFA==
 
-"react-iphone@link:..":
-  version "0.0.0"
-  uid ""
+react-iphone@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-iphone/-/react-iphone-1.0.2.tgz#b94d1ab6935cf1474b7a89f5c78c1f44cba37f8f"
+  integrity sha512-lTM93jIHN80Yj2SiUnw02F+LO+rnoNdOepH9qFoUGbJQzFAbyIHWKjgYM5gGCLXdSO+/DihEfUDNw7q6j3n3bA==
 
 react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.1"
