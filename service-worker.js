@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-iphone/precache-manifest.48d40a4292f4298faa4077668aaf0089.js"
+  "/react-iphone/precache-manifest.f3c59e575b977c46f75976657d32c3ec.js"
 );
 
 self.addEventListener('message', (event) => {
