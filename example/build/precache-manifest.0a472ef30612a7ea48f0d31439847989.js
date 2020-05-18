@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59d589c0591ad9122960f21878c0515d",
+    "revision": "af77e378e205b7785322c9fa3a06fed4",
     "url": "/react-iphone/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-iphone/static/css/2.552b86f8.chunk.css"
   },
   {
-    "revision": "33bdaa3cfd2906bfdf15",
-    "url": "/react-iphone/static/css/main.4afdb98e.chunk.css"
+    "revision": "828a8ae533dc3caaa004",
+    "url": "/react-iphone/static/css/main.4f407c02.chunk.css"
   },
   {
     "revision": "b149449c6ad0975b785c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-iphone/static/js/2.bf8e9377.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33bdaa3cfd2906bfdf15",
+    "revision": "828a8ae533dc3caaa004",
     "url": "/react-iphone/static/js/main.9b097b89.chunk.js"
   },
   {
