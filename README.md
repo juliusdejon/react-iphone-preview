@@ -34,8 +34,8 @@ And import style manually
 
 | Property        | Description             | Type             | Default |
 | --------------- | ----------------------- | ---------------- | ------- |
-| height          | Height of the phone     | string \| number | -       |
-| width           | Width of the phone      | string \| number | -       |
+| height          | Height of the phone     | string \| number | 500px   |
+| width           | Width of the phone      | string \| number | 240px   |
 | backgroundStyle | Background of the phone | object           | -       |
 
 ## License
