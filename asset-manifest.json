@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-iphone/static/css/main.82a958a4.chunk.css",
+    "main.js": "/react-iphone/static/js/main.959c16f0.chunk.js",
+    "main.js.map": "/react-iphone/static/js/main.959c16f0.chunk.js.map",
+    "runtime-main.js": "/react-iphone/static/js/runtime-main.debd3022.js",
+    "runtime-main.js.map": "/react-iphone/static/js/runtime-main.debd3022.js.map",
+    "static/js/2.4535283c.chunk.js": "/react-iphone/static/js/2.4535283c.chunk.js",
+    "static/js/2.4535283c.chunk.js.map": "/react-iphone/static/js/2.4535283c.chunk.js.map",
+    "index.html": "/react-iphone/index.html",
+    "precache-manifest.48d40a4292f4298faa4077668aaf0089.js": "/react-iphone/precache-manifest.48d40a4292f4298faa4077668aaf0089.js",
+    "service-worker.js": "/react-iphone/service-worker.js",
+    "static/css/main.82a958a4.chunk.css.map": "/react-iphone/static/css/main.82a958a4.chunk.css.map",
+    "static/js/2.4535283c.chunk.js.LICENSE.txt": "/react-iphone/static/js/2.4535283c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.debd3022.js",
+    "static/js/2.4535283c.chunk.js",
+    "static/css/main.82a958a4.chunk.css",
+    "static/js/main.959c16f0.chunk.js"
+  ]
+}
